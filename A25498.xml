@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer of a letter from a friend in the country to a friend in the city, or, Some remarks on the late comet being a relation of many universal accidents that will come to pass in the year 1682 according to the prognostications of the celestial bodies, which will happen beyond the seas : with a sober caution to all by speedy repentance to avert the judgments that are impendent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25498</idno>
+            <idno type="STC">Wing A3282</idno>
+            <idno type="STC">ESTC R28296</idno>
+            <idno type="EEBO-CITATION">10492346</idno>
+            <idno type="OCLC">ocm 10492346</idno>
+            <idno type="VID">45172</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1393:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer of a letter from a friend in the country to a friend in the city, or, Some remarks on the late comet being a relation of many universal accidents that will come to pass in the year 1682 according to the prognostications of the celestial bodies, which will happen beyond the seas : with a sober caution to all by speedy repentance to avert the judgments that are impendent.</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Comets --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45172:1"/>
+            <pb facs="tcp:45172:1"/>
+            <p>AN ANSWER OF A LETTER From a Friend in the COUNTRY To a Friend in the CITY: Or ſome Remarks on the Late COMET.</p>
+            <p>Being a Relation of many Univerſal Accidents that will come to paſs in the year, 1682. According to the Prognoſtications of the Celeſtial Bodies, which will happen beyond the Seas; with a ſober Caution to all, by ſpeedy Repentance to avert the Judgments that are Im<g ref="char:EOLhyphen"/>pendent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> in <hi>Thames-ſtreet</hi> near <hi>Bay<g ref="char:EOLhyphen"/>nards-Caſtle,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45172:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:45172:2"/>
+            <head>SOME REMARKS ON THE LATE COMET.</head>
+            <opener>
+               <salute>My Friend,</salute>
+            </opener>
+            <p>I Received yours, bearing date <hi>July,</hi> the twelfth 1681. Wherein I am much affected with your ſeven days, which you call Pro<g ref="char:EOLhyphen"/>phetical, and indeed I have been the more convinced of the truth of them ſince I have peruſed thoſe Indefatigable Scriptures, and as to that principal place in the 20 Chapter of <hi>Exodus</hi> and the 11. ver. where it is ſaid <hi>the Lord made heaven and earth in</hi> 6 <hi>Days, and reſted the</hi> 7 <hi>and hallowd it;</hi> and I believe it muſt of neceſſity have a great<g ref="char:EOLhyphen"/>er Extent then barely a relation to the work, for without doubt they have in them a Myſtery, and relate to our days and times, even to the end of the World, or 7000 years, and we may aſſure our ſelves that theſe 7 days are meant 7000 years, and you will be ſatisfied of the truth of it in that famous Scripture, <hi>Pſalm</hi> the 90 and 4 vers. <hi>for a</hi> 1000 <hi>Years in thy ſight are but as yeſterday,</hi> that is a day paſt, and in the 3 Chapter of the ſecond Epiſtle of <hi>Peter</hi> and the 8 ver. the A<g ref="char:EOLhyphen"/>poſtle ſaith this, <hi>be not Ignorant of one thing, my Beloved, that is, a</hi> 1000 <hi>Years is as one day with the Lord, and one day as</hi> 1000 <hi>Years,</hi> So that theſe 7 days muſt ſignifie 7000 years, and there is a hidden Myſtery in them, relating to us, upon whom the End of the World is come, and you ſhall be yet more ſatisfied if you read the 3 and 4 verſes of that Chapter, <hi>know this firſt, that in the laſt days there ſhall come forth Scoffers, walking after their own luſt,</hi> ſaying, <hi>where is the promiſe
+<pb n="2" facs="tcp:45172:3"/>of his coming, and ſince the fathers fell aſleep all things continue as they were,</hi> as if they were a Nation or people blinded forgetting all thoſe heavenly promiſes, which relate to his coming.</p>
+            <p>Nevertheleſs, we according to his promiſe look for <hi>new heavens and new earth,</hi> wherein dwelleth Righteouſneſs, and without doubt we are near the accompliſhment of thoſe times, <hi>When the Law ſhall go out of</hi> Sion, <hi>and the Word of the Lord from</hi> Jeruſalem, <hi>when Nations ſhall be ruled by the Word of the Lord, and not by the Luſts and corrupt minds of Men.</hi> But my Friend, I would not derogate too far from your ſeven days, becauſe they did ſo much agree and harmonize with thoſe Heralds and Signs which ſo late<g ref="char:EOLhyphen"/>ly appeared to us in our Hemiſphear: but of that by and by.</p>
+            <p>Conſider, my Friend, thoſe ſeven days ſignifie 7000 years, and indeed I do much agree with you, when I conſider what the Lord hath done in the ſix days work, or 6000 years; as to the firſt two days, or 2000 years which commenced from <hi>Adam</hi> to the giving of the Law upon Mount <hi>Sina,</hi> in which the old World was de<g ref="char:EOLhyphen"/>ſtroyed, and the glorious diſpenſation of the Law brought in, this is verified both by Scripture and Chronology, and it was a glorious change, 1500 years from <hi>Adam</hi> to the Flood, and 500 years to the giving of the Law, which made up two days, or two 2000 years; and of this, Scripture is fulfill'd. As to the Chronology I refer you to Sir <hi>Walter Rawley,</hi> in the Hiſtory of the World, the ſecond two days or 2000 years was compleated from the giving of the Law, to the coming of Chriſt, which was exactly fulfilled, and this is far more glorious than the former: Thus was the four days, or 4000 years compleated.</p>
+            <p>The next two days not compleat. The ſix days are yet to be fulfilled, and part of them are expired, which is from the coming of Chriſt to this year 1681. wants only 300 and 19. years to the next great and new revolution, or change of all things.</p>
+            <p>And we muſt not expect any below Chriſt, neither can there be any thing greater than Chriſt glorified among his People, it will be Chriſt in the greatneſs of his Glory, ſubjecting Nations and King<g ref="char:EOLhyphen"/>doms to himſelf, and to this give all the Scriptures teſtimony: And my Friend, when I conſider, what the Scriptures have ſaid of Wars, <hi>There ſhall be Wars and rumors of Wars, the Father againſt the Son, and the Son againſt the Father, and Brother againſt Bro<g ref="char:EOLhyphen"/>ther,
+<pb n="3" facs="tcp:45172:3"/>a Mans Enemies ſhall be them of his own Houſe, and there ſhall be a day of trouble that hath not been, neither ſhall be hereafter, but it ſhall be ſhortned for the Elects ſake;</hi> and whoſoever liveth much longer, it is to be feared, may ſee thoſe Bloody Days, if the Papiſts have their wills, and not reſtrained by the Lord: but he ſaith, <hi>he will cut his work ſhort in rightouſneſs, and fruſtrate the devices of wicked men.</hi> But, my Friend, do not miſtake me, for I do not believe the end of all things to be at hand, but the end of theſe two laſt days, or 2000 years; for the Jews muſt firſt be cal<g ref="char:EOLhyphen"/>led, and the Goſpel preached to all Nations, before the end of the ſeventh day, or ſeven 7000 years, the true year of Jubile, the Sabbath of Reſt, to be compleated: And indeed you conſider that <hi>Rome</hi> to this day, although blindly, obſerves every ſeventh year for a year of Jubile, not knowing what the true meaning is of it: This is the time that every Man ſhall ſit under his own Vine, and under his Fig-Tree, and eat the Fruit of his Labour, and praiſe the Lord for ever and ever, at the end of the ſeventh day, or 7000 years. the Kingdom ſhall be delivered up to the Father, and this is the end of the World.</p>
+            <p>Therefore conſider: this muſt be a ſanctified time, a 1000 years of Glory, far exceeding the former 6000 years, or days, where<g ref="char:EOLhyphen"/>in God is ſaid to reſt from his Labour; and doubtleſs will be the ſettlement of the <hi>Iriſh</hi> Church, and the union both of <hi>Jews</hi> and <hi>Gentils</hi> together, and the total bringing under the Man of Sin: that there may be no more hurting nor deſtroying in all Gods holy Mountains.</p>
+            <p>And now I am come to ſpeak of the Signs and Heralds, which have lately appeared in the Heavens, as the uſhering in of this which I have ſpoken of; for the Scripture ſaith plainly, <hi>In the latter days there ſhall be Signs in the Heavens, Blood and Fire, and Pillars of Smoak,</hi> which many have experienced: And indeed this Comet or Blazing-Star is of the ſame nature. One of theſe had we in 65 and 66, before that mighty Plague and deſtructive Fire fell upon us, and another in 73, before the horrid Plot break out; and now this laſt great one the mightieſt that hath been ſeen; beſides fiery Meteors and Hallows, and Blood that hath dropped from the Heavens in many places; and theſe have ful<g ref="char:EOLhyphen"/>filled the Scriptures with truth, and the Scriptures hath credited
+<pb n="4" facs="tcp:45172:4"/>them in ſpeaking of them, and making mention of them before they came.</p>
+            <p>And, although I am a Lover of Art, I would not lay too great a ſtreſs upon Aſtronomy, or any thing belonging to it, and would have all that are ſearchers into theſe things, firſt to be well acquain<g ref="char:EOLhyphen"/>ted with the Scriptures, and they will make good work of it, and ſhew the mind of God by his Works in the Heavens, <hi>For the Heavens declare the Glory of God, and the Earth his handy Work.</hi>
+            </p>
+            <p>Now a little to ſhew what is meant by a Comet or Blazing-Star, and I ſhall be brief, for my intent is to ſpeak of its effects. Theſe Comets are no more than a dry Exhalation, viſcous and ſlymy, exhalted by the Sun and power of the Stars, by degrees, into the upper Region of the Air, by how much the dryer or the moiſter the Vapours are; they are compounded of the higher they are drawn up to: and it hath been the Judgment of the Antients that theſe never appear but with the ſignal hand of God; neither do I believe leſs: for I believe they carry Divinity in them, and they are the Meſſengers from the Almighty to declare his Will and pleaſure. And I muſt tell you, that which was laſt is the moſt re<g ref="char:EOLhyphen"/>markable of all others, both in largeneſs of its Streams reaching all moſt to the Zenith, or Mid-Heaven, and its effects will be as great; it was a bright lively colour mounting up with its rays, the moſt light of any that appeared and the moſt like that which ap<g ref="char:EOLhyphen"/>peared in the time of <hi>Caeſar Auguſtus,</hi> in whoſe Reign Chriſt was born. And you ſhall find in that Hiſtory that one of the Sibels, <hi>Si<g ref="char:EOLhyphen"/>billa Tibertina</hi> told <hi>Caeſar</hi> that the Star ſignified a Man-child born, that ſhould be greater than <hi>Caeſar;</hi> and adviſed <hi>Caeſar</hi> to worſhip him and adore him. And without doubt this Star declares to the World, that Chriſt is at hand to accompliſh great works in routing Kingdoms and great Empires, and to eſtabliſh them in Righteouſ<g ref="char:EOLhyphen"/>neſs; it ſignifieth War to break forth, and Plagues, and the head mounts up; there is deliverances a coming, helps is at hand, God will deliver his People through Fire, Sword, and from a flood of Enemies, according to that Scripture, <hi>When the Enemy ſhall come in like a Flood, the Spirit of the Lord ſhall lift up a Standard:</hi> now the nature of this is ſignified by the Signs it appeared in, and paſſed through, which are <hi>Scorpio,</hi> ♏ <hi>Sagitary,</hi> ♐ and <hi>Piſces,</hi> ♓ and fear <hi>Aries</hi> ♈ too, for it was very near it. Under the Signs are <hi>France,</hi> and
+<pb n="5" facs="tcp:45172:4"/>part of <hi>Flanders, Slavony, Hungary, Portugal, Gallabria, Siletia, Valentia,</hi> and the Planets are <hi>Mars</hi> and <hi>Jupiter,</hi> which ſignifieth War, Fire, and putrefaction of Blood; and theſe Kingdoms will God lay his hands on without repentance: and this is that which uſhers in that famous Conjunction of <hi>Saturn</hi> and <hi>Jupiter,</hi> 1682, the mir<g ref="char:EOLhyphen"/>rour of the world, there hath not been the like in the memory of Man, nor Chronology, for no leſs than three times is this Con<g ref="char:EOLhyphen"/>junction celebrated in ten moneths, of <hi>Saturn</hi> and <hi>Jupiter,</hi> and with<g ref="char:EOLhyphen"/>out doubt when the effects of this Conjunction, and the laſt E<g ref="char:EOLhyphen"/>clipſe of the Sun in <hi>Aries</hi> opperate, woo, woo, to befal the Courts of Princes, it is like to pell down the high looks of <hi>France,</hi> for all he thinks he's above the Stars, for this Comet paſt through his natural Sign or his Nativity; and the War in that great Conjunction, and the Comets influence is between <hi>Saturn</hi> and <hi>Jupiter; Jupiter</hi> de<g ref="char:EOLhyphen"/>notes good men, <hi>Saturn</hi> bad men, then down goeth <hi>Rome,</hi> and all the Papiſtical Government, whether it be Kingdoms or Empires; and eſpecially in that Kingdom where the Goſpel is moſt power<g ref="char:EOLhyphen"/>fully preached, there will begin the Sorrow, for you know the Ark of God could not ſtand in the Houſe of <hi>Dagon,</hi> but it brought the Idol upon his Knees; Chriſt and <hi>Belial</hi> cannot live together, it alſo ſignifieth the death of ſome great Prince in <hi>Europe;</hi> the Conjunction falls in a Kingly Sign woo be to men in great places, they will be the worſt of people, ſignified by <hi>Saturn,</hi> whoſe God is their Belly, who mindeth earthly things; but people in the in<g ref="char:EOLhyphen"/>ward Court that waiteth upon God, who hath his Mark in their Fore<g ref="char:EOLhyphen"/>heads, and in their right Hand; and you may look for the begin<g ref="char:EOLhyphen"/>ning of theſe things in <hi>Auguſt</hi> 81, and ſo forwards to the approach<g ref="char:EOLhyphen"/>ing year 82, the finiſhing of the reſt: in the mean time, let juſt and honeſt men unite in the Faith of Chriſt, and ſtand by him that hath laid his Life down for us; ſetting aſide all difference in Reli<g ref="char:EOLhyphen"/>gion, profeſſing the Truth, as it is in Jeſus. Then let <hi>France</hi> and <hi>Rome</hi> do its worſt, <hi>For the Lord Jehovah will be on our ſide, and the Spirit of Truth ſhall uphold us.</hi>
+            </p>
+            <closer>
+               <salute>My Friend,</salute> 
+               <signed>I am thine; ſo far as thou art Chriſts.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
